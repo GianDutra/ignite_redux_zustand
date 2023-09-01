@@ -7,7 +7,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/ignite_redux_zustand">
   </a>
   
- <a href="https://tailwind-nextjs-sable.vercel.app/">
+ <a href="(https://ignite-redux-zustand-three.vercel.app/">
     <img alt="ignite_redux_zustand" src="https://img.shields.io/badge/redux_zustand-%237159c1?style=flat&logo=ghost">
   </a>
   
