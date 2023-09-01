@@ -5,24 +5,34 @@
         "modules": [
           {
             "id": 1,
-            "title": "Iniciando com React",
+            "title": "Getting Started in Japanese",
             "lessons": [
-              { "id": "Jai8w6K_GnY", "title": "CSS Modules", "duration": "13:45" },
-              { "id": "w-DW4DhDfcw", "title": "Estilização do Post", "duration": "10:05" },
-              { "id": "D83-55LUdKE", "title": "Componente: Header", "duration": "06:33" },
-              { "id": "W_ATsETujaY", "title": "Componente: Sidebar", "duration": "09:12" },
-              { "id": "Pj8dPeameYo", "title": "CSS Global", "duration": "03:23" },
-              { "id": "8KBq2vhwbac", "title": "Form de comentários", "duration": "11:34" }
+              { "id": "fW9myvPDhto", "title": "DON'T Want to do", "duration": "16:51" },
+              { "id": "77krgJkkywg", "title": "Have been / done", "duration": "19:30" },
+              { "id": "D83-55LUdKE", "title": "Verb Past Negative", "duration": "18:45" },
+              { "id": "GU1UTcbFwIc", "title": "50+ Must-know Vocabulary", "duration": "15:50" },
+              { "id": "nzWMEOla0iM", "title": "May / Can I do ~? Can I use?", "duration": "15:50" },
+              { "id": "QdPJTFYvj20", "title": "Informal Past Tense", "duration": "18:56" }
             ]
           },
           {
             "id": 2,
-            "title": "Estrutura da aplicação",
+            "title": "Intermediate Japanese",
             "lessons": [
-              { "id": "gE48FQXRZ_o", "title": "Componente: Comment", "duration": "13:45" },
-              { "id": "Ng_Vk4tBl0g", "title": "Responsividade", "duration": "10:05" },
-              { "id": "h5JA3wfuW1k", "title": "Interações no JSX", "duration": "06:33" },
-              { "id": "1G0vSTqWELg", "title": "Utilizando estado", "duration": "09:12" }
+              { "id": "J78j99MMq8k", "title": "JLPT N4 Nouns", "duration": "12:55" },
+              { "id": "wtjU6bBVYnw", "title": "Nouns&Verbs", "duration": "09:56" },
+              { "id": "t4z-pIjwyg0", "title": "I've heard / Apparently", "duration": "23:34" },
+              { "id": "nXCTykxKO9w", "title": "To.../For... ", "duration": "18:53" }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Becoming a Samurai",
+            "lessons": [
+              { "id": "BQG08i8onKM", "title": "ずにはいられない", "duration": "28:16" },
+              { "id": "cHBFNYaAeqE", "title": "侍試験の求められる語彙", "duration": "06:27" },
+              { "id": "wHdm41iaMt8", "title": "侍の試験に出題される漢字", "duration": "04:15" },
+              { "id": "Ip0x2tblBJ4", "title": "侍がよく利用するブランド名", "duration": "14:37" }
             ]
           }
         ]
