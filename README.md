@@ -31,6 +31,7 @@ To create the website, the following was used:
 - **[TailWindCSS](https://tailwindcss.com/)**
 - **[Lucide](https://lucide.dev/)**
 - **[RadixUI](https://www.radix-ui.com/)**
+- **[React Player](https://github.com/cookpete/react-player)**
 
 ## 💻 Prerequisites
 
