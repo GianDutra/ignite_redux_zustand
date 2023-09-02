@@ -20,7 +20,7 @@
 
 To create the website, the following was used:
 
-#### **Website**    [React](https://reactjs.org/)  +  ([Vite](https://vitejs.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website**    ([React](https://reactjs.org/)  +  [Vite](https://vitejs.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
 - **[Redux](https://redux.js.org/)**
 - **[Redux Toolkit](https://redux-toolkit.js.org/)**
 - **[Redux Thunk](https://github.com/reduxjs/redux-thunk)**
