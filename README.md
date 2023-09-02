@@ -27,11 +27,13 @@ To create the website, the following was used:
 - **[Zustand](https://zustand.surge.sh/)**
 - **[Vitest](https://vitest.io/)**
 - **[Axios](https://axios-http.com/)**
-- **[JSON Server](https://github.com/typicode/json-server)**
 - **[TailWindCSS](https://tailwindcss.com/)**
 - **[Lucide](https://lucide.dev/)**
 - **[RadixUI](https://www.radix-ui.com/)**
 - **[React Player](https://github.com/cookpete/react-player)**
+
+#### **API**
+- **[JsonServer](https://github.com/typicode/json-server)**
 
 ## 💻 Prerequisites
 
