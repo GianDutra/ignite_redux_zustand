@@ -66,7 +66,7 @@ $ npm run dev
 ---
 
 
-## 👨‍💼 Autor
+## 👨‍💼 Author
 
 <table>
   <tr>
