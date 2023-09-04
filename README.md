@@ -42,7 +42,7 @@ Before you start, make sure you have installed:
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com)
 
-## 🚀 Instalando <ignite_redux_zustand>
+## 🚀 Installing <ignite_redux_zustand>
 
  
 ```bash
