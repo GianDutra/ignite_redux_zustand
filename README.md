@@ -48,7 +48,7 @@ Before you start, make sure you have installed:
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:GianDutra/ignite_redux_zustand.git
+$ git clone https://github.com/GianDutra/ignite_redux_zustand.git
 
 # Access the project folder in your terminal
 $ cd ignite_redux_zustand
